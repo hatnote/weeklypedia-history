@@ -1,5 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Wed, 26 Aug 2015 12:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Tue, 25 Aug 2015 08:30:12 -0400, Cron ran:
+<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Thu, 27 Aug 2015 12:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt</title><description>At Wed, 26 Aug 2015 13:00:02 -0400, Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1032 bytes) ...efused&gt;
+</description><link>http://hatnote.com</link><pubDate>Wed, 26 Aug 2015 13:00:02 -0400</pubDate><guid>http://hatnote.com/201508261700.t7QH02OL011603</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; env GEODB_DIR=$GEODB_DIR $GEOIP_UPDATE_SCRIPT 2&gt;&amp;1 | tee -a $GEOIP_UPDATE_LOG</title><description>At Wed, 26 Aug 2015 12:00:01 -0400, Cron ran:
+
+	env GEODB_DIR=$GEODB_DIR $GEOIP_UPDATE_SCRIPT 2&gt;&amp;1 | tee -a $GEOIP_UPDATE_LOG
+
+Command output:
+
+	--2015-0... (477 bytes) ...ut [32]
+</description><link>http://hatnote.com</link><pubDate>Wed, 26 Aug 2015 12:00:01 -0400</pubDate><guid>http://hatnote.com/201508261600.t7QG01St011380</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Wed, 26 Aug 2015 08:30:07 -0400, Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	[master ... (1211 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Wed, 26 Aug 2015 08:30:07 -0400</pubDate><guid>http://hatnote.com/201508261230.t7QCU7TE010703</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Tue, 25 Aug 2015 08:30:12 -0400, Cron ran:
 
 	/home/hatnote/weeklypedia/static/repo_update.sh
 
