@@ -14,7 +14,7 @@
     $('#signup').click(function() {
       $('.signup-links').slideToggle();
     });
-    $('#archive').click(function() {
+    $('#archive, .more').click(function() {
       $('.archive-links').slideToggle();
     });
   });
@@ -31,7 +31,7 @@
   </div>
   <div class="main">
     <div class="content">
-      <p>Join a list to receive a weekly email with the top twenty Wikipedia articles and top five Wikipedia discussions from this week.</p>
+      <p>Join a list to receive a weekly email with the top twenty Wikipedia articles and top five Wikipedia discussions from this week, available in English and <a href="#more" class="more">other languages</a>.</p>
       <button type="button" id="signup"><span>Sign up!</span></button>
 
       <div class="lang-links signup-links">
@@ -76,9 +76,9 @@
         </ol>
         <a class="read-full" href="archive/en/20160422/weeklypedia_20160422.html">Read the full issue</a>
       </div>
-      <button type="button" id="archive"><span>Read the archive</span></button>
+      <button type="button" id="archive"><span>Other languages &amp; archives</span></button>
       <div class="lang-links archive-links">
-        <h2>Archives for...</h2>
+        <h2 id="more">Read more...</h2>
         <ul class="buttons">
           <li><a href="archive/en/index.html">English Wikipedia Edition</a></li>
           <li><a href="archive/de/index.html">German Wikipedia Edition</a></li>
@@ -94,6 +94,7 @@
 	  <li><a href="archive/ur/index.html">Urdu Wikipedia Edition</a></li>
 	  <li><a href="archive/zh/index.html">Chinese Wikipedia Edition</a></li>
           <li><a href="archive/kn/index.html">Kannada Wikipedia Edition</a></li>
+	  <li><a href="https://github.com/hatnote/weeklypedia/issues/new">Request another language</a></li>
         </ul>
       </div>
     </div>
