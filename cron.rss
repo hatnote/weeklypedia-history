@@ -1,5 +1,315 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Thu, 14 Sep 2017 12:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Wed, 13 Sep 2017 21:21:17 -0400, Cron ran:
+<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Fri, 15 Sep 2017 12:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang kn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/kn.txt</title><description>At Fri, 15 Sep 2017 06:23:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang kn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/kn.txt
+
+Command output:
+
+	{'archiv... (2735 bytes) ...ssue kn
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201709151023.v8FAN4dT007752</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang lv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/lv.txt</title><description>At Fri, 15 Sep 2017 06:23:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang lv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/lv.txt
+
+Python exception: mailchimp.UnknownExceptionError.
+
+Command output:
+
+	{'archiv... (3592 bytes) ...o send.
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201709151023.v8FAN4qW007763</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang el 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/el.txt</title><description>At Fri, 15 Sep 2017 06:23:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang el 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/el.txt
+
+Command output:
+
+	{'archiv... (2729 bytes) ...ssue el
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201709151023.v8FAN46C007753</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang ur 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ur.txt</title><description>At Fri, 15 Sep 2017 06:23:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang ur 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ur.txt
+
+Command output:
+
+	{'archiv... (2729 bytes) ...ssue ur
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201709151023.v8FAN4Tj007751</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt</title><description>At Fri, 15 Sep 2017 06:22:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt
+
+Command output:
+
+	{'archiv... (2734 bytes) ...ssue ca
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:22:04 -0400</pubDate><guid>http://hatnote.com/201709151022.v8FAM4ow007686</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt</title><description>At Fri, 15 Sep 2017 06:22:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt
+
+Command output:
+
+	{'archiv... (2735 bytes) ...ssue fa
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:22:04 -0400</pubDate><guid>http://hatnote.com/201709151022.v8FAM42Z007697</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang zh 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/zh.txt</title><description>At Fri, 15 Sep 2017 06:22:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang zh 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/zh.txt
+
+Command output:
+
+	{'archiv... (2735 bytes) ...ssue zh
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:22:04 -0400</pubDate><guid>http://hatnote.com/201709151022.v8FAM4Sr007690</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang es 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/es.txt</title><description>At Fri, 15 Sep 2017 06:22:04 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang es 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/es.txt
+
+Command output:
+
+	{'archiv... (2735 bytes) ...ssue es
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:22:04 -0400</pubDate><guid>http://hatnote.com/201709151022.v8FAM4QE007685</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang da 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/da.txt</title><description>At Fri, 15 Sep 2017 06:21:05 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang da 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/da.txt
+
+Command output:
+
+	{'archiv... (2732 bytes) ...ssue da
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:21:05 -0400</pubDate><guid>http://hatnote.com/201709151021.v8FAL5hx007633</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang sv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/sv.txt</title><description>At Fri, 15 Sep 2017 06:21:05 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang sv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/sv.txt
+
+Command output:
+
+	{'archiv... (2734 bytes) ...ssue sv
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:21:05 -0400</pubDate><guid>http://hatnote.com/201709151021.v8FAL581007637</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang it 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/it.txt</title><description>At Fri, 15 Sep 2017 06:21:05 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang it 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/it.txt
+
+Command output:
+
+	{'archiv... (2734 bytes) ...ssue it
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:21:05 -0400</pubDate><guid>http://hatnote.com/201709151021.v8FAL5Mo007634</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang et 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/et.txt</title><description>At Fri, 15 Sep 2017 06:21:05 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang et 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/et.txt
+
+Command output:
+
+	{'archiv... (2736 bytes) ...ssue et
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:21:05 -0400</pubDate><guid>http://hatnote.com/201709151021.v8FAL52U007629</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt</title><description>At Fri, 15 Sep 2017 06:20:10 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt
+
+Command output:
+
+	{'archiv... (2735 bytes) ...ssue en
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201709151020.v8FAKAFl007574</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt</title><description>At Fri, 15 Sep 2017 06:20:10 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt
+
+Command output:
+
+	{'archiv... (2733 bytes) ...ssue ko
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201709151020.v8FAKAXn007576</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang de 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/de.txt</title><description>At Fri, 15 Sep 2017 06:20:10 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang de 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/de.txt
+
+Command output:
+
+	{'archiv... (2732 bytes) ...ssue de
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201709151020.v8FAKAIP007573</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt</title><description>At Fri, 15 Sep 2017 06:20:10 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt
+
+Command output:
+
+	{'archiv... (2732 bytes) ...ssue fr
+</description><link>http://hatnote.com</link><pubDate>Fri, 15 Sep 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201709151020.v8FAKAoq007575</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Thu, 14 Sep 2017 21:21:22 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
+
+Command output:
+
+	S2017-09... (3588 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:21:22 -0400</pubDate><guid>http://hatnote.com/201709150121.v8F1LMHg005269</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Thu, 14 Sep 2017 21:21:15 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:21:15 -0400</pubDate><guid>http://hatnote.com/201709150121.v8F1LF0f005265</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Thu, 14 Sep 2017 21:21:10 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:21:10 -0400</pubDate><guid>http://hatnote.com/201709150121.v8F1LAXE005261</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Thu, 14 Sep 2017 21:20:14 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:20:14 -0400</pubDate><guid>http://hatnote.com/201709150120.v8F1KE2F005257</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Thu, 14 Sep 2017 21:20:12 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:20:12 -0400</pubDate><guid>http://hatnote.com/201709150120.v8F1KC3n005253</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Thu, 14 Sep 2017 21:20:12 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:20:12 -0400</pubDate><guid>http://hatnote.com/201709150120.v8F1KCvl005249</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Thu, 14 Sep 2017 21:20:11 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:20:11 -0400</pubDate><guid>http://hatnote.com/201709150120.v8F1KBCo005242</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Thu, 14 Sep 2017 21:20:11 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:20:11 -0400</pubDate><guid>http://hatnote.com/201709150120.v8F1KBx2005241</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Thu, 14 Sep 2017 21:19:10 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:19:10 -0400</pubDate><guid>http://hatnote.com/201709150119.v8F1JAGs005218</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Thu, 14 Sep 2017 21:19:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:19:09 -0400</pubDate><guid>http://hatnote.com/201709150119.v8F1J931005214</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Thu, 14 Sep 2017 21:19:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:19:09 -0400</pubDate><guid>http://hatnote.com/201709150119.v8F1J9WG005210</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Thu, 14 Sep 2017 21:19:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:19:09 -0400</pubDate><guid>http://hatnote.com/201709150119.v8F1J97Z005206</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Thu, 14 Sep 2017 21:18:13 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:18:13 -0400</pubDate><guid>http://hatnote.com/201709150118.v8F1IDko005198</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Thu, 14 Sep 2017 21:18:11 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:18:11 -0400</pubDate><guid>http://hatnote.com/201709150118.v8F1IB82005194</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Thu, 14 Sep 2017 21:18:10 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:18:10 -0400</pubDate><guid>http://hatnote.com/201709150118.v8F1IArE005190</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Thu, 14 Sep 2017 21:18:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:18:09 -0400</pubDate><guid>http://hatnote.com/201709150118.v8F1I9Dn005186</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Thu, 14 Sep 2017 21:17:15 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:17:15 -0400</pubDate><guid>http://hatnote.com/201709150117.v8F1HFe2005176</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Thu, 14 Sep 2017 21:17:11 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:17:11 -0400</pubDate><guid>http://hatnote.com/201709150117.v8F1HBac005172</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Thu, 14 Sep 2017 21:17:10 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:17:10 -0400</pubDate><guid>http://hatnote.com/201709150117.v8F1HAPX005168</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Thu, 14 Sep 2017 21:17:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:17:09 -0400</pubDate><guid>http://hatnote.com/201709150117.v8F1H9Ri005164</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Thu, 14 Sep 2017 21:16:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201709150116.v8F1G95H005153</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Thu, 14 Sep 2017 21:16:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201709150116.v8F1G9Y8005151</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Thu, 14 Sep 2017 21:16:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201709150116.v8F1G9nH005145</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Thu, 14 Sep 2017 21:16:09 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201709150116.v8F1G9Wv005143</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Thu, 14 Sep 2017 21:15:16 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
+
+Command output:
+
+	S2017-09... (3587 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:15:16 -0400</pubDate><guid>http://hatnote.com/201709150115.v8F1FGvj005133</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Thu, 14 Sep 2017 21:15:15 -0400, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
+
+Command output:
+
+	S2017-09... (3653 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 21:15:15 -0400</pubDate><guid>http://hatnote.com/201709150115.v8F1FF1a005131</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug</title><description>At Thu, 14 Sep 2017 20:20:13 -0400, Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug
+
+Command output:
+
+	{'archiv... (2766 bytes) ...ssue en
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 20:20:13 -0400</pubDate><guid>http://hatnote.com/201709150020.v8F0KDxL004881</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Thu, 14 Sep 2017 08:33:41 -0400, Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	[master ... (3058 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Thu, 14 Sep 2017 08:33:41 -0400</pubDate><guid>http://hatnote.com/201709141233.v8ECXf0k002464</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Wed, 13 Sep 2017 21:21:17 -0400, Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
 
@@ -6867,314 +7177,4 @@ Command output:
 Command output:
 
 	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:06:10 -0400</pubDate><guid>http://hatnote.com/201708120106.v7C16A74000349</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Fri, 11 Aug 2017 21:06:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:06:09 -0400</pubDate><guid>http://hatnote.com/201708120106.v7C169e2000345</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Fri, 11 Aug 2017 21:05:14 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:05:14 -0400</pubDate><guid>http://hatnote.com/201708120105.v7C15EBf000329</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Fri, 11 Aug 2017 21:05:13 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:05:13 -0400</pubDate><guid>http://hatnote.com/201708120105.v7C15D6U000320</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Fri, 11 Aug 2017 21:05:13 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:05:13 -0400</pubDate><guid>http://hatnote.com/201708120105.v7C15DJp000319</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Fri, 11 Aug 2017 21:05:13 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:05:13 -0400</pubDate><guid>http://hatnote.com/201708120105.v7C15DbR000317</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Fri, 11 Aug 2017 21:05:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:05:09 -0400</pubDate><guid>http://hatnote.com/201708120105.v7C159Tl000313</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Fri, 11 Aug 2017 21:04:11 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:04:11 -0400</pubDate><guid>http://hatnote.com/201708120104.v7C14B3Q032743</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Fri, 11 Aug 2017 21:04:11 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:04:11 -0400</pubDate><guid>http://hatnote.com/201708120104.v7C14BYx032744</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Fri, 11 Aug 2017 21:04:11 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:04:11 -0400</pubDate><guid>http://hatnote.com/201708120104.v7C14Bee032741</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Fri, 11 Aug 2017 21:04:11 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
-
-Command output:
-
-	S2017-08... (3114 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:04:11 -0400</pubDate><guid>http://hatnote.com/201708120104.v7C14Bfq032742</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Fri, 11 Aug 2017 08:33:23 -0400, Cron ran:
-
-	/home/hatnote/weeklypedia/static/repo_update.sh
-
-Command output:
-
-	[master ... (8829 bytes) ... master
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 08:33:23 -0400</pubDate><guid>http://hatnote.com/201708111233.v7BCXND4028878</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang kn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/kn.txt</title><description>At Fri, 11 Aug 2017 06:23:05 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang kn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/kn.txt
-
-Command output:
-
-	{'archiv... (2736 bytes) ...ssue kn
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:23:05 -0400</pubDate><guid>http://hatnote.com/201708111023.v7BAN5v6028312</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang el 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/el.txt</title><description>At Fri, 11 Aug 2017 06:23:04 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang el 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/el.txt
-
-Command output:
-
-	{'archiv... (2729 bytes) ...ssue el
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201708111023.v7BAN4xK028308</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang ur 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ur.txt</title><description>At Fri, 11 Aug 2017 06:23:04 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang ur 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ur.txt
-
-Command output:
-
-	{'archiv... (2729 bytes) ...ssue ur
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201708111023.v7BAN4nG028304</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang lv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/lv.txt</title><description>At Fri, 11 Aug 2017 06:23:04 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang lv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/lv.txt
-
-Python exception: mailchimp.UnknownExceptionError.
-
-Command output:
-
-	{'archiv... (3592 bytes) ...o send.
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:23:04 -0400</pubDate><guid>http://hatnote.com/201708111023.v7BAN46A028300</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt</title><description>At Fri, 11 Aug 2017 06:22:07 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt
-
-Command output:
-
-	{'archiv... (2734 bytes) ...ssue ca
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:22:07 -0400</pubDate><guid>http://hatnote.com/201708111022.v7BAM7KC028235</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang es 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/es.txt</title><description>At Fri, 11 Aug 2017 06:22:08 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang es 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/es.txt
-
-Command output:
-
-	{'archiv... (2735 bytes) ...ssue es
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:22:08 -0400</pubDate><guid>http://hatnote.com/201708111022.v7BAM8nF028243</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang zh 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/zh.txt</title><description>At Fri, 11 Aug 2017 06:22:08 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang zh 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/zh.txt
-
-Command output:
-
-	{'archiv... (2735 bytes) ...ssue zh
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:22:08 -0400</pubDate><guid>http://hatnote.com/201708111022.v7BAM8YQ028242</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt</title><description>At Fri, 11 Aug 2017 06:22:07 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt
-
-Command output:
-
-	{'archiv... (2735 bytes) ...ssue fa
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:22:07 -0400</pubDate><guid>http://hatnote.com/201708111022.v7BAM7rm028234</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang da 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/da.txt</title><description>At Fri, 11 Aug 2017 06:21:05 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang da 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/da.txt
-
-Command output:
-
-	{'archiv... (2732 bytes) ...ssue da
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:21:05 -0400</pubDate><guid>http://hatnote.com/201708111021.v7BAL5F6028183</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang sv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/sv.txt</title><description>At Fri, 11 Aug 2017 06:21:04 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang sv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/sv.txt
-
-Command output:
-
-	{'archiv... (2734 bytes) ...ssue sv
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:21:04 -0400</pubDate><guid>http://hatnote.com/201708111021.v7BAL4nM028179</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang it 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/it.txt</title><description>At Fri, 11 Aug 2017 06:21:05 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang it 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/it.txt
-
-Command output:
-
-	{'archiv... (2734 bytes) ...ssue it
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:21:05 -0400</pubDate><guid>http://hatnote.com/201708111021.v7BAL5Gg028182</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang et 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/et.txt</title><description>At Fri, 11 Aug 2017 06:21:04 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang et 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/et.txt
-
-Command output:
-
-	{'archiv... (2736 bytes) ...ssue et
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:21:04 -0400</pubDate><guid>http://hatnote.com/201708111021.v7BAL4CC028178</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang de 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/de.txt</title><description>At Fri, 11 Aug 2017 06:20:10 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang de 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/de.txt
-
-Command output:
-
-	{'archiv... (2732 bytes) ...ssue de
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201708111020.v7BAKAEY028123</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt</title><description>At Fri, 11 Aug 2017 06:20:10 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt
-
-Command output:
-
-	{'archiv... (2733 bytes) ...ssue ko
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201708111020.v7BAKAc4028122</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt</title><description>At Fri, 11 Aug 2017 06:20:10 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt
-
-Command output:
-
-	{'archiv... (2732 bytes) ...ssue fr
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201708111020.v7BAKA3t028124</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt</title><description>At Fri, 11 Aug 2017 06:20:10 -0400, Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt
-
-Command output:
-
-	{'archiv... (2734 bytes) ...ssue en
-</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 06:20:10 -0400</pubDate><guid>http://hatnote.com/201708111020.v7BAKAl2028128</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Thu, 10 Aug 2017 21:17:34 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
-
-Command output:
-
-	S2017-08... (3587 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:17:34 -0400</pubDate><guid>http://hatnote.com/201708110117.v7B1HY9X025766</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Thu, 10 Aug 2017 21:17:10 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:17:10 -0400</pubDate><guid>http://hatnote.com/201708110117.v7B1HAhv025759</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Thu, 10 Aug 2017 21:17:10 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:17:10 -0400</pubDate><guid>http://hatnote.com/201708110117.v7B1HAp6025755</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Thu, 10 Aug 2017 21:17:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:17:09 -0400</pubDate><guid>http://hatnote.com/201708110117.v7B1H9Hp025751</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Thu, 10 Aug 2017 21:16:11 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:16:11 -0400</pubDate><guid>http://hatnote.com/201708110116.v7B1GBtw025742</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Thu, 10 Aug 2017 21:16:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201708110116.v7B1G9xY025738</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Thu, 10 Aug 2017 21:16:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201708110116.v7B1G9Ss025734</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Thu, 10 Aug 2017 21:16:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:16:09 -0400</pubDate><guid>http://hatnote.com/201708110116.v7B1G9CB025730</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Thu, 10 Aug 2017 21:15:16 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
-
-Command output:
-
-	S2017-08... (3652 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:15:16 -0400</pubDate><guid>http://hatnote.com/201708110115.v7B1FGpo025722</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Thu, 10 Aug 2017 21:15:14 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
-
-Command output:
-
-	S2017-08... (3586 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:15:14 -0400</pubDate><guid>http://hatnote.com/201708110115.v7B1FElo025718</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Thu, 10 Aug 2017 21:06:13 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:06:13 -0400</pubDate><guid>http://hatnote.com/201708110106.v7B16DN4025663</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Thu, 10 Aug 2017 21:06:12 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:06:12 -0400</pubDate><guid>http://hatnote.com/201708110106.v7B16CMp025659</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Thu, 10 Aug 2017 21:06:09 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:06:09 -0400</pubDate><guid>http://hatnote.com/201708110106.v7B16958025655</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Thu, 10 Aug 2017 21:05:17 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:05:17 -0400</pubDate><guid>http://hatnote.com/201708110105.v7B15HiI025639</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Thu, 10 Aug 2017 21:05:14 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:05:14 -0400</pubDate><guid>http://hatnote.com/201708110105.v7B15Ep7025635</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Thu, 10 Aug 2017 21:05:13 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:05:13 -0400</pubDate><guid>http://hatnote.com/201708110105.v7B15DTu025631</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Thu, 10 Aug 2017 21:05:12 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
-
-Command output:
-
-	S2017-08... (3113 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Thu, 10 Aug 2017 21:05:12 -0400</pubDate><guid>http://hatnote.com/201708110105.v7B15C9s025627</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Fri, 11 Aug 2017 21:06:10 -0400</pubDate><guid>http://hatnote.com/201708120106.v7C16A74000349</guid></item></channel></rss>
