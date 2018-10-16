@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Mon, 15 Oct 2018 12:30:06 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Sun, 14 Oct 2018 21:33:12 -0400, Cron ran:
+<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Tue, 16 Oct 2018 12:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt</title><description>At Mon, 15 Oct 2018 18:11:01 -0400, Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1032 bytes) ...efused&gt;
+</description><link>http://hatnote.com</link><pubDate>Mon, 15 Oct 2018 18:11:01 -0400</pubDate><guid>http://hatnote.com/201810152211.w9FMB1u9029415</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Mon, 15 Oct 2018 08:35:51 -0400, Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	[master ... (3370 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Mon, 15 Oct 2018 08:35:51 -0400</pubDate><guid>http://hatnote.com/201810151235.w9FCZpHO016524</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Sun, 14 Oct 2018 21:33:12 -0400, Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
 
@@ -7231,18 +7247,4 @@ Command output:
 Command output:
 
 	S2018-09... (4159 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 11 Sep 2018 21:36:13 -0400</pubDate><guid>http://hatnote.com/201809120136.w8C1aDt4022806</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Tue, 11 Sep 2018 21:36:11 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
-
-Command output:
-
-	S2018-09... (4159 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 11 Sep 2018 21:36:11 -0400</pubDate><guid>http://hatnote.com/201809120136.w8C1aBCp022802</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Tue, 11 Sep 2018 21:35:16 -0400, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Command output:
-
-	S2018-09... (4159 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 11 Sep 2018 21:35:16 -0400</pubDate><guid>http://hatnote.com/201809120135.w8C1ZGkm022795</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Tue, 11 Sep 2018 21:36:13 -0400</pubDate><guid>http://hatnote.com/201809120136.w8C1aDt4022806</guid></item></channel></rss>
