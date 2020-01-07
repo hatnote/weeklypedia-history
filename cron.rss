@@ -1,5 +1,264 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Mon, 06 Jan 2020 13:30:06 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Sun, 5 Jan 2020 21:06:01 -0500, Cron ran:
+<rss version="2.0"><channel><title>Cronfed on graybles</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><generator>cronfed v1.0</generator><lastBuildDate>Tue, 07 Jan 2020 13:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $FETCH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt</title><description>At Tue, 7 Jan 2020 02:06:32 -0500, Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt
+
+Python exception: urllib2.HTTPError.
+
+Command output:
+
+	Tracebac... (1610 bytes) ...R ERROR
+</description><link>http://hatnote.com</link><pubDate>Tue, 7 Jan 2020 02:06:32 -0500</pubDate><guid>http://hatnote.com/202001070706.00776Wkl029745</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt</title><description>At Tue, 7 Jan 2020 02:06:32 -0500, Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt
+
+Python exception: urllib2.HTTPError.
+
+Command output:
+
+	Tracebac... (1610 bytes) ...R ERROR
+</description><link>http://hatnote.com</link><pubDate>Tue, 7 Jan 2020 02:06:32 -0500</pubDate><guid>http://hatnote.com/202001070706.00776WRd029746</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Mon, 6 Jan 2020 21:06:01 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:06:01 -0500</pubDate><guid>http://hatnote.com/202001070206.007261kE026106</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Mon, 6 Jan 2020 21:06:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:06:02 -0500</pubDate><guid>http://hatnote.com/202001070206.007262R9026108</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Mon, 6 Jan 2020 21:06:01 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:06:01 -0500</pubDate><guid>http://hatnote.com/202001070206.007261lU026107</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Mon, 6 Jan 2020 21:05:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:05:02 -0500</pubDate><guid>http://hatnote.com/202001070205.007252PV026070</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Mon, 6 Jan 2020 21:05:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:05:02 -0500</pubDate><guid>http://hatnote.com/202001070205.0072529M026068</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Mon, 6 Jan 2020 21:05:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:05:02 -0500</pubDate><guid>http://hatnote.com/202001070205.007252XA026071</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Mon, 6 Jan 2020 21:05:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:05:02 -0500</pubDate><guid>http://hatnote.com/202001070205.007252Ca026069</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Mon, 6 Jan 2020 21:05:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:05:02 -0500</pubDate><guid>http://hatnote.com/202001070205.007252fr026067</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Mon, 6 Jan 2020 21:04:01 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:04:01 -0500</pubDate><guid>http://hatnote.com/202001070204.007241CS026028</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Mon, 6 Jan 2020 21:04:01 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:04:01 -0500</pubDate><guid>http://hatnote.com/202001070204.007241JU026032</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Mon, 6 Jan 2020 21:04:01 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:04:01 -0500</pubDate><guid>http://hatnote.com/202001070204.007241wf026029</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Mon, 6 Jan 2020 21:04:01 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:04:01 -0500</pubDate><guid>http://hatnote.com/202001070204.007241Y8026027</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Mon, 6 Jan 2020 21:03:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:03:02 -0500</pubDate><guid>http://hatnote.com/202001070203.007232kR025987</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Mon, 6 Jan 2020 21:03:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:03:02 -0500</pubDate><guid>http://hatnote.com/202001070203.007232Zc025988</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Mon, 6 Jan 2020 21:03:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:03:02 -0500</pubDate><guid>http://hatnote.com/202001070203.007232gl025986</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Mon, 6 Jan 2020 21:03:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:03:02 -0500</pubDate><guid>http://hatnote.com/202001070203.007232xC025984</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Mon, 6 Jan 2020 21:02:12 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1629 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:02:12 -0500</pubDate><guid>http://hatnote.com/202001070202.00722Chc025958</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Mon, 6 Jan 2020 21:02:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:02:02 -0500</pubDate><guid>http://hatnote.com/202001070202.007222h2025947</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Mon, 6 Jan 2020 21:02:07 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:02:07 -0500</pubDate><guid>http://hatnote.com/202001070202.007227bA025954</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Mon, 6 Jan 2020 21:02:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:02:02 -0500</pubDate><guid>http://hatnote.com/202001070202.007222V2025946</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Mon, 6 Jan 2020 21:01:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:01:02 -0500</pubDate><guid>http://hatnote.com/202001070201.007212ZG025907</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Mon, 6 Jan 2020 21:01:07 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:01:07 -0500</pubDate><guid>http://hatnote.com/202001070201.007217vD025918</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Mon, 6 Jan 2020 21:01:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:01:02 -0500</pubDate><guid>http://hatnote.com/202001070201.0072123A025910</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Mon, 6 Jan 2020 21:01:02 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:01:02 -0500</pubDate><guid>http://hatnote.com/202001070201.007212sS025906</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Mon, 6 Jan 2020 21:00:12 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:00:12 -0500</pubDate><guid>http://hatnote.com/202001070200.00720Cs0025879</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Mon, 6 Jan 2020 21:00:12 -0500, Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
+
+Python exception:     return func_to_log(*a, **kw).
+
+Command output:
+
+	E2020-01... (1627 bytes) ...decoded
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 21:00:12 -0500</pubDate><guid>http://hatnote.com/202001070200.00720CIb025878</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Mon, 6 Jan 2020 08:39:53 -0500, Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	[master ... (3412 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Mon, 6 Jan 2020 08:39:53 -0500</pubDate><guid>http://hatnote.com/202001061339.006Ddrb9019994</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Sun, 5 Jan 2020 21:06:01 -0500, Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
 
@@ -8496,207 +8755,4 @@ Command output:
 Command output:
 
 	{'archiv... (2966 bytes) ...ssue en
-</description><link>http://hatnote.com</link><pubDate>Thu, 5 Dec 2019 20:20:32 -0500</pubDate><guid>http://hatnote.com/201912060120.xB61KWwH003465</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Thu, 5 Dec 2019 08:42:16 -0500, Cron ran:
-
-	/home/hatnote/weeklypedia/static/repo_update.sh
-
-Command output:
-
-	[master ... (3401 bytes) ... master
-</description><link>http://hatnote.com</link><pubDate>Thu, 5 Dec 2019 08:42:16 -0500</pubDate><guid>http://hatnote.com/201912051342.xB5DgG2b021175</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed, 4 Dec 2019 21:06:20 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
-
-Command output:
-
-	S2019-12... (3316 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:06:20 -0500</pubDate><guid>http://hatnote.com/201912050206.xB526KGd005372</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Wed, 4 Dec 2019 21:06:18 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:06:18 -0500</pubDate><guid>http://hatnote.com/201912050206.xB526IVW005368</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Wed, 4 Dec 2019 21:06:10 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:06:10 -0500</pubDate><guid>http://hatnote.com/201912050206.xB526Acp005356</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Wed, 4 Dec 2019 21:05:22 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:05:22 -0500</pubDate><guid>http://hatnote.com/201912050205.xB525M5l005322</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Wed, 4 Dec 2019 21:05:21 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:05:21 -0500</pubDate><guid>http://hatnote.com/201912050205.xB525LqW005318</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Wed, 4 Dec 2019 21:05:20 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:05:20 -0500</pubDate><guid>http://hatnote.com/201912050205.xB525K06005312</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Wed, 4 Dec 2019 21:05:16 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:05:16 -0500</pubDate><guid>http://hatnote.com/201912050205.xB525GoT005308</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Wed, 4 Dec 2019 21:05:15 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:05:15 -0500</pubDate><guid>http://hatnote.com/201912050205.xB525FKT005304</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Wed, 4 Dec 2019 21:04:15 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:04:15 -0500</pubDate><guid>http://hatnote.com/201912050204.xB524Fsh005249</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Wed, 4 Dec 2019 21:04:14 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:04:14 -0500</pubDate><guid>http://hatnote.com/201912050204.xB524EjE005245</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Wed, 4 Dec 2019 21:04:10 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:04:10 -0500</pubDate><guid>http://hatnote.com/201912050204.xB524Ac4005241</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Wed, 4 Dec 2019 21:04:08 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:04:08 -0500</pubDate><guid>http://hatnote.com/201912050204.xB5248X1005235</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Wed, 4 Dec 2019 21:03:17 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:03:17 -0500</pubDate><guid>http://hatnote.com/201912050203.xB523Hks005197</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Wed, 4 Dec 2019 21:03:17 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:03:17 -0500</pubDate><guid>http://hatnote.com/201912050203.xB523HNp005193</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Wed, 4 Dec 2019 21:03:16 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:03:16 -0500</pubDate><guid>http://hatnote.com/201912050203.xB523Gmu005189</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Wed, 4 Dec 2019 21:03:15 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:03:15 -0500</pubDate><guid>http://hatnote.com/201912050203.xB523F6u005185</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Wed, 4 Dec 2019 21:02:15 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:02:15 -0500</pubDate><guid>http://hatnote.com/201912050202.xB522Ffu005143</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Wed, 4 Dec 2019 21:02:15 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:02:15 -0500</pubDate><guid>http://hatnote.com/201912050202.xB522Fta005139</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Wed, 4 Dec 2019 21:02:11 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:02:11 -0500</pubDate><guid>http://hatnote.com/201912050202.xB522BoA005130</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Wed, 4 Dec 2019 21:02:10 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:02:10 -0500</pubDate><guid>http://hatnote.com/201912050202.xB522Ai6005126</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Wed, 4 Dec 2019 21:01:23 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
-
-Command output:
-
-	S2019-12... (3315 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:01:23 -0500</pubDate><guid>http://hatnote.com/201912050201.xB521NWh005097</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Wed, 4 Dec 2019 21:01:15 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:01:15 -0500</pubDate><guid>http://hatnote.com/201912050201.xB521FpQ005091</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Wed, 4 Dec 2019 21:01:14 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:01:14 -0500</pubDate><guid>http://hatnote.com/201912050201.xB521E1H005087</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Wed, 4 Dec 2019 21:01:13 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:01:13 -0500</pubDate><guid>http://hatnote.com/201912050201.xB521D0T005083</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Wed, 4 Dec 2019 21:00:26 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
-
-Command output:
-
-	S2019-12... (3380 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:00:26 -0500</pubDate><guid>http://hatnote.com/201912050200.xB520QYp005037</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Wed, 4 Dec 2019 21:00:26 -0500, Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
-
-Command output:
-
-	S2019-12... (3314 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 21:00:26 -0500</pubDate><guid>http://hatnote.com/201912050200.xB520QC1005039</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; env GEODB_DIR=$GEODB_DIR $GEOIP_UPDATE_SCRIPT 2&gt;&amp;1 | tee -a $GEOIP_UPDATE_LOG</title><description>At Wed, 4 Dec 2019 12:00:07 -0500, Cron ran:
-
-	env GEODB_DIR=$GEODB_DIR $GEOIP_UPDATE_SCRIPT 2&gt;&amp;1 | tee -a $GEOIP_UPDATE_LOG
-
-Command output:
-
-	--2019-1... (989 bytes) ...written
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 12:00:07 -0500</pubDate><guid>http://hatnote.com/201912041700.xB4H07NZ025251</guid></item><item><title>Cron: &lt;hatnote@graybles&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Wed, 4 Dec 2019 08:41:14 -0500, Cron ran:
-
-	/home/hatnote/weeklypedia/static/repo_update.sh
-
-Command output:
-
-	[master ... (3400 bytes) ... master
-</description><link>http://hatnote.com</link><pubDate>Wed, 4 Dec 2019 08:41:14 -0500</pubDate><guid>http://hatnote.com/201912041341.xB4DfEt3021770</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Thu, 5 Dec 2019 20:20:32 -0500</pubDate><guid>http://hatnote.com/201912060120.xB61KWwH003465</guid></item></channel></rss>
