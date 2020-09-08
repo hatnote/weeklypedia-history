@@ -5,6 +5,7 @@ function log_and_die { logger $1; exit 1; }
 DATE_STR="$(date '+%l:%M%P  %B %e, %Y')"
 
 cd /home/hatnote/weeklypedia/static
+git pull
 if [ "$(git status -s)" ]
   then
     git add .
