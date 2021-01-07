@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 06 Jan 2021 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed,  6 Jan 2021 01:06:46 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Thu, 07 Jan 2021 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt</title><description>At Thu,  7 Jan 2021 02:35:04 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt
+
+Command output:
+
+	.. rende... (61 bytes) ...SH7Puw)
+</description><link>http://hatnote.com</link><pubDate>Thu,  7 Jan 2021 02:35:04 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210107023504.1481DBC7FC</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Wed,  6 Jan 2021 08:30:13 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2120 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Wed,  6 Jan 2021 08:30:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210106083013.685BFBC7FC</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed,  6 Jan 2021 01:06:46 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
 
@@ -7165,18 +7179,4 @@ Command output:
 Command output:
 
 	S2020-12... (9217 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  5 Dec 2020 01:06:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20201205010613.19A74BC7F0</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Sat,  5 Dec 2020 01:05:17 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Command output:
-
-	S2020-12... (9217 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  5 Dec 2020 01:05:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20201205010517.42B39BC7F0</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Sat,  5 Dec 2020 01:05:14 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Command output:
-
-	S2020-12... (9217 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  5 Dec 2020 01:05:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20201205010514.A90C1BC7F0</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Sat,  5 Dec 2020 01:06:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20201205010613.19A74BC7F0</guid></item></channel></rss>
