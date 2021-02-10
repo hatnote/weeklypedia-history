@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Tue, 09 Feb 2021 08:30:01 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Tue,  9 Feb 2021 01:06:37 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 10 Feb 2021 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt</title><description>At Wed, 10 Feb 2021 04:28:44 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1512 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Wed, 10 Feb 2021 04:28:44 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210210042844.C591ABC802</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Tue,  9 Feb 2021 08:30:11 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2121 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Tue,  9 Feb 2021 08:30:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210209083011.6C30BBC802</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Tue,  9 Feb 2021 01:06:37 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
 
@@ -7205,18 +7221,4 @@ Command output:
 Command output:
 
 	S2021-01... (9213 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  9 Jan 2021 01:01:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210109010110.292D4BC7FC</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Sat,  9 Jan 2021 01:00:37 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
-
-Command output:
-
-	S2021-01... (9213 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  9 Jan 2021 01:00:37 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210109010037.63767BC7FC</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Sat,  9 Jan 2021 01:00:29 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
-
-Command output:
-
-	S2021-01... (9279 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  9 Jan 2021 01:00:29 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210109010029.BF6FEBC7FC</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Sat,  9 Jan 2021 01:01:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20210109010110.292D4BC7FC</guid></item></channel></rss>
