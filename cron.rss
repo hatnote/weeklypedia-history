@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Mon, 26 Sep 2022 08:30:06 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Mon, 26 Sep 2022 01:18:24 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Tue, 27 Sep 2022 08:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Mon, 26 Sep 2022 08:30:36 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2125 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Mon, 26 Sep 2022 08:30:36 +0000 (UTC)</pubDate><guid>http://hatnote.com/20220926083036.23AFBBC801</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Mon, 26 Sep 2022 01:18:24 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
 
@@ -7188,11 +7195,4 @@ Command output:
 Command output:
 
 	.. rende... (58 bytes) ...2WmJ9Q)
-</description><link>http://hatnote.com</link><pubDate>Fri, 26 Aug 2022 10:31:03 +0000 (UTC)</pubDate><guid>http://hatnote.com/20220826103103.2BDF3BC80F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt</title><description>At Fri, 26 Aug 2022 09:01:03 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $PUBLISH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt
-
-Command output:
-
-	.. rende... (58 bytes) ...1F81KA)
-</description><link>http://hatnote.com</link><pubDate>Fri, 26 Aug 2022 09:01:03 +0000 (UTC)</pubDate><guid>http://hatnote.com/20220826090103.8357ABC80F</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Fri, 26 Aug 2022 10:31:03 +0000 (UTC)</pubDate><guid>http://hatnote.com/20220826103103.2BDF3BC80F</guid></item></channel></rss>
