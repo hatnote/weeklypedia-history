@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 02 Nov 2022 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed,  2 Nov 2022 01:36:18 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Thu, 03 Nov 2022 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt</title><description>At Thu,  3 Nov 2022 02:35:03 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt
+
+Command output:
+
+	.. rende... (61 bytes) ...SH7Puw)
+</description><link>http://hatnote.com</link><pubDate>Thu,  3 Nov 2022 02:35:03 +0000 (UTC)</pubDate><guid>http://hatnote.com/20221103023503.C592CBC7F4</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Wed,  2 Nov 2022 08:30:16 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2124 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Wed,  2 Nov 2022 08:30:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20221102083016.D3AE3BC7F4</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed,  2 Nov 2022 01:36:18 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
 
@@ -7205,18 +7219,4 @@ Command output:
 Command output:
 
 	S2022-10... (9591 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun,  2 Oct 2022 01:16:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20221002011609.AD89FBC801</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Sun,  2 Oct 2022 01:15:14 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
-
-Command output:
-
-	S2022-10... (9591 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun,  2 Oct 2022 01:15:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20221002011514.75AB3BC801</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Sun,  2 Oct 2022 01:15:12 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
-
-Command output:
-
-	S2022-10... (9657 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun,  2 Oct 2022 01:15:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20221002011512.4D672BC801</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Sun,  2 Oct 2022 01:16:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20221002011609.AD89FBC801</guid></item></channel></rss>
