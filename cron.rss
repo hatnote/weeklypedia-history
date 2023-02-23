@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 22 Feb 2023 08:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed, 22 Feb 2023 01:51:18 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Thu, 23 Feb 2023 08:30:03 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt</title><description>At Thu, 23 Feb 2023 02:35:05 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt
+
+Command output:
+
+	.. rende... (61 bytes) ...SH7Puw)
+</description><link>http://hatnote.com</link><pubDate>Thu, 23 Feb 2023 02:35:05 +0000 (UTC)</pubDate><guid>http://hatnote.com/20230223023505.D11B2BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Wed, 22 Feb 2023 08:30:19 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2124 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Wed, 22 Feb 2023 08:30:19 +0000 (UTC)</pubDate><guid>http://hatnote.com/20230222083019.5BE10BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed, 22 Feb 2023 01:51:18 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
 
@@ -7323,18 +7337,4 @@ Command output:
 Command output:
 
 	S2023-01... (9591 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 24 Jan 2023 01:16:30 +0000 (UTC)</pubDate><guid>http://hatnote.com/20230124011630.23F82BC7F1</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Tue, 24 Jan 2023 01:16:27 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
-
-Command output:
-
-	S2023-01... (9591 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 24 Jan 2023 01:16:27 +0000 (UTC)</pubDate><guid>http://hatnote.com/20230124011627.4D22EBC7F1</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Tue, 24 Jan 2023 01:15:32 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
-
-Command output:
-
-	S2023-01... (9591 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 24 Jan 2023 01:15:32 +0000 (UTC)</pubDate><guid>http://hatnote.com/20230124011532.1F8D6BC7F1</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Tue, 24 Jan 2023 01:16:30 +0000 (UTC)</pubDate><guid>http://hatnote.com/20230124011630.23F82BC7F1</guid></item></channel></rss>
