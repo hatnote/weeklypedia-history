@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Thu, 23 Nov 2023 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt</title><description>At Thu, 23 Nov 2023 02:35:03 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Fri, 24 Nov 2023 08:30:04 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Thu, 23 Nov 2023 08:30:06 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Host key... (2402 bytes) ...exists.
+</description><link>http://hatnote.com</link><pubDate>Thu, 23 Nov 2023 08:30:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20231123083006.4AE53BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt</title><description>At Thu, 23 Nov 2023 02:35:03 +0000 (UTC), Cron ran:
 
 	$PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt
 
@@ -7182,11 +7189,4 @@ Command output:
 Command output:
 
 	S2023-10... (9594 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 24 Oct 2023 01:20:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20231024012010.D3020BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Tue, 24 Oct 2023 01:20:10 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
-
-Command output:
-
-	S2023-10... (9594 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Tue, 24 Oct 2023 01:20:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20231024012010.AB8ABBC765</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Tue, 24 Oct 2023 01:20:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20231024012010.D3020BC765</guid></item></channel></rss>
