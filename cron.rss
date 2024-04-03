@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Tue, 02 Apr 2024 08:30:01 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Tue,  2 Apr 2024 01:34:11 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 03 Apr 2024 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Tue,  2 Apr 2024 08:30:09 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2121 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Tue,  2 Apr 2024 08:30:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240402083009.88FCCBC74F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Tue,  2 Apr 2024 01:34:11 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
 
@@ -7172,11 +7179,4 @@ Command output:
 Command output:
 
 	S2024-03... (9963 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  2 Mar 2024 01:35:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240302013510.39D2BBC730</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Sat,  2 Mar 2024 01:34:12 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
-
-Command output:
-
-	S2024-03... (9963 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sat,  2 Mar 2024 01:34:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240302013412.68FA4BC730</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Sat,  2 Mar 2024 01:35:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240302013510.39D2BBC730</guid></item></channel></rss>
