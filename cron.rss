@@ -1,5 +1,280 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Tue, 17 Sep 2024 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt</title><description>At Tue, 17 Sep 2024 03:05:02 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 18 Sep 2024 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Wed, 18 Sep 2024 01:34:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:34:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013414.05248BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Wed, 18 Sep 2024 01:34:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:34:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013411.9F97DBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Wed, 18 Sep 2024 01:33:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:33:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013311.C14D6BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Wed, 18 Sep 2024 01:33:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:33:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013311.57E18BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Wed, 18 Sep 2024 01:33:10 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:33:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013310.8B3C1BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Wed, 18 Sep 2024 01:33:09 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:33:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013309.A2CBDBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Wed, 18 Sep 2024 01:32:35 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
+
+Command output:
+
+	S2024-09... (9966 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:32:35 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013235.4959FBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Wed, 18 Sep 2024 01:32:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:32:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013211.8D180BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Wed, 18 Sep 2024 01:32:10 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:32:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013210.4E7E8BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Wed, 18 Sep 2024 01:32:09 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:32:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013209.58C43BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Wed, 18 Sep 2024 01:31:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:31:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013114.69DC1BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Wed, 18 Sep 2024 01:31:13 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:31:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013113.638ECBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Wed, 18 Sep 2024 01:31:09 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:31:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013109.92E41BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Wed, 18 Sep 2024 01:31:09 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:31:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013109.666FBBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Wed, 18 Sep 2024 01:30:16 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
+
+Command output:
+
+	S2024-09... (9965 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:30:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013016.8C383BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Wed, 18 Sep 2024 01:30:10 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
+
+Command output:
+
+	S2024-09... (10031 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:30:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918013010.BDB62BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed, 18 Sep 2024 01:22:43 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
+
+Command output:
+
+	S2024-09... (9595 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:22:43 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012243.8C25FBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt</title><description>At Wed, 18 Sep 2024 01:22:22 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt
+
+Command output:
+
+	S2024-09... (9591 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:22:22 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012222.4421FBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Wed, 18 Sep 2024 01:21:16 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:21:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012116.7CFC8BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang gl --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gl.txt</title><description>At Wed, 18 Sep 2024 01:21:16 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang gl --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gl.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:21:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012116.0DE4FBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Wed, 18 Sep 2024 01:21:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:21:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012111.D7E67BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Wed, 18 Sep 2024 01:20:19 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
+
+Command output:
+
+	S2024-09... (9591 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:20:19 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012019.8A7A6BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Wed, 18 Sep 2024 01:20:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:20:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012015.A0CD8BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Wed, 18 Sep 2024 01:20:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:20:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012014.2A1B1BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Wed, 18 Sep 2024 01:20:13 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:20:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012013.376BFBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Wed, 18 Sep 2024 01:20:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:20:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918012011.A56FCBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Wed, 18 Sep 2024 01:19:12 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:19:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918011912.158A5BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Wed, 18 Sep 2024 01:19:11 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
+
+Command output:
+
+	S2024-09... (9590 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Sep 2024 01:19:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240918011911.EE65BBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang nn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nn.txt</title><description>At Tue, 17 Sep 2024 15:25:13 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang nn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nn.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:25:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152513.08871BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang nl 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nl.txt</title><description>At Tue, 17 Sep 2024 15:25:13 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang nl 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nl.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:25:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152513.0720EBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ar 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ar.txt</title><description>At Tue, 17 Sep 2024 15:25:13 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang ar 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ar.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:25:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152513.05EC4BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang tr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/tr.txt</title><description>At Tue, 17 Sep 2024 15:25:13 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang tr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/tr.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:25:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152513.04630BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang no 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/no.txt</title><description>At Tue, 17 Sep 2024 15:25:13 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang no 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/no.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:25:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152513.0230BBC72D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang eu 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eu.tx</title><description>At Tue, 17 Sep 2024 15:25:12 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang eu 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eu.tx
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:25:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152512.F3398BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang eo 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eo.txt</title><description>At Tue, 17 Sep 2024 15:23:12 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang eo 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eo.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:23:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152312.2315EBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang cs 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cs.txt</title><description>At Tue, 17 Sep 2024 15:23:12 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang cs 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cs.txt
+
+Python exception: urllib2.URLError.
+
+Command output:
+
+	Tracebac... (1021 bytes) ...ed out&gt;
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 15:23:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917152312.21BE1BC901</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Tue, 17 Sep 2024 08:30:09 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2125 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Sep 2024 08:30:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240917083009.CC687BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt</title><description>At Tue, 17 Sep 2024 03:05:02 +0000 (UTC), Cron ran:
 
 	$PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt
 
@@ -6962,337 +7237,4 @@ Python exception: urllib2.HTTPError.
 Command output:
 
 	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:23:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819212317.404B9BC8FB</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang nl 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nl.txt</title><description>At Mon, 19 Aug 2024 21:23:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang nl 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nl.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:23:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819212317.3E88BBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang no 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/no.txt</title><description>At Mon, 19 Aug 2024 21:23:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang no 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/no.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:23:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819212317.3A5E8BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang eo 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eo.txt</title><description>At Mon, 19 Aug 2024 21:21:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang eo 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eo.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:21:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819212116.C7FF7BC72D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang cs 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cs.txt</title><description>At Mon, 19 Aug 2024 21:21:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang cs 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cs.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:21:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819212116.C68B2BC8FB</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang oc 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/oc.txt</title><description>At Mon, 19 Aug 2024 21:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang oc 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/oc.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211916.84013BC8FB</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang te 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/te.txt</title><description>At Mon, 19 Aug 2024 21:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang te 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/te.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211916.8449BBC902</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ru 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ru.txt</title><description>At Mon, 19 Aug 2024 21:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang ru 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ru.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211916.8267FBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang uk 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/uk.txt</title><description>At Mon, 19 Aug 2024 21:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang uk 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/uk.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211916.8038ABC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang el 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/el.txt</title><description>At Mon, 19 Aug 2024 21:18:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang el 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/el.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:18:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211816.3A112BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang lv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/lv.txt</title><description>At Mon, 19 Aug 2024 21:17:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang lv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/lv.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:17:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211717.159FDBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang kn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/kn.txt</title><description>At Mon, 19 Aug 2024 21:16:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang kn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/kn.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:16:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211616.CC017BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ur 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ur.txt</title><description>At Mon, 19 Aug 2024 21:15:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang ur 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ur.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:15:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211516.96337BC8FB</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang pt 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/pt.txt</title><description>At Mon, 19 Aug 2024 21:15:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang pt 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/pt.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:15:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211516.935EFBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang zh 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/zh.txt</title><description>At Mon, 19 Aug 2024 21:14:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang zh 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/zh.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:14:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211416.30CEDBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt</title><description>At Mon, 19 Aug 2024 21:13:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang fa 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fa.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:13:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211317.0863CBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang es 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/es.txt</title><description>At Mon, 19 Aug 2024 21:12:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang es 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/es.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:12:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211216.BE477BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt</title><description>At Mon, 19 Aug 2024 21:11:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang ca 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ca.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:11:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211116.951E4BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang it 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/it.txt</title><description>At Mon, 19 Aug 2024 21:10:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang it 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/it.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:10:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819211016.3361CBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang da 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/da.txt</title><description>At Mon, 19 Aug 2024 21:09:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang da 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/da.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:09:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210917.0E0ECBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang sv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/sv.txt</title><description>At Mon, 19 Aug 2024 21:08:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang sv 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/sv.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:08:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210816.A7016BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang et 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/et.txt</title><description>At Mon, 19 Aug 2024 21:07:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang et 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/et.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:07:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210716.80BAABC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt</title><description>At Mon, 19 Aug 2024 21:05:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang fr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/fr.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:05:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210517.401F1BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang de 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/de.txt</title><description>At Mon, 19 Aug 2024 21:03:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang de 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/de.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:03:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210316.D6932BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt</title><description>At Mon, 19 Aug 2024 21:01:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:01:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210117.822E1BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt</title><description>At Mon, 19 Aug 2024 21:00:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang ko 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ko.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:00:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819210016.EAE27BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang nl 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nl.txt</title><description>At Mon, 19 Aug 2024 20:23:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang nl 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nl.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:23:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202316.A3941BC72D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ar 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ar.txt</title><description>At Mon, 19 Aug 2024 20:23:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang ar 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ar.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:23:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202316.A1766BC902</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang nn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nn.txt</title><description>At Mon, 19 Aug 2024 20:23:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang nn 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/nn.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:23:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202316.A1346BC8FB</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang no 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/no.txt</title><description>At Mon, 19 Aug 2024 20:23:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang no 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/no.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:23:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202316.A0ECCBC903</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang tr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/tr.txt</title><description>At Mon, 19 Aug 2024 20:23:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang tr 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/tr.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:23:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202316.A0B07BC72D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang eu 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eu.tx</title><description>At Mon, 19 Aug 2024 20:23:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang eu 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eu.tx
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:23:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202316.9F5AFBC904</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang eo 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eo.txt</title><description>At Mon, 19 Aug 2024 20:21:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang eo 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/eo.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:21:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202117.479F5BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang cs 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cs.txt</title><description>At Mon, 19 Aug 2024 20:21:17 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang cs 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cs.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:21:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819202117.4418DBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang te 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/te.txt</title><description>At Mon, 19 Aug 2024 20:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang te 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/te.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819201916.E0E79BC8FB</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang uk 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/uk.txt</title><description>At Mon, 19 Aug 2024 20:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang uk 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/uk.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819201916.E0310BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang ru 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ru.txt</title><description>At Mon, 19 Aug 2024 20:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang ru 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/ru.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819201916.DFDD4BC72D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang oc 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/oc.txt</title><description>At Mon, 19 Aug 2024 20:19:16 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN $FETCH_SCRIPT --lang oc 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/oc.txt
-
-Python exception: urllib2.HTTPError.
-
-Command output:
-
-	Tracebac... (1581 bytes) ...TIMEOUT
-</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 20:19:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819201916.DEF75BC903</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Mon, 19 Aug 2024 21:23:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20240819212317.404B9BC8FB</guid></item></channel></rss>
