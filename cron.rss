@@ -1,5 +1,260 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 20 Aug 2025 08:30:01 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt</title><description>At Wed, 20 Aug 2025 01:22:36 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Thu, 21 Aug 2025 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt</title><description>At Thu, 21 Aug 2025 02:35:02 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $PUBLISH_SCRIPT --lang en --debug 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/debug.txt
+
+Command output:
+
+	.. rende... (108 bytes) ...SH7Puw)
+</description><link>http://hatnote.com</link><pubDate>Thu, 21 Aug 2025 02:35:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250821023502.63494BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt</title><description>At Thu, 21 Aug 2025 01:37:30 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt
+
+Command output:
+
+	S2025-08... (9966 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Thu, 21 Aug 2025 01:37:30 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250821013730.94FF3BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed, 20 Aug 2025 08:52:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (154237 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:52:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085206.B003CBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Wed, 20 Aug 2025 08:52:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (162779 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:52:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085206.A8574BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Wed, 20 Aug 2025 08:52:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (169079 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:52:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085206.A0CCFBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang gl --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gl.txt</title><description>At Wed, 20 Aug 2025 08:52:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang gl --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gl.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (175334 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:52:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085206.96AC6BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Wed, 20 Aug 2025 08:51:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (148945 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:51:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085106.3ACD8BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Wed, 20 Aug 2025 08:51:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (143979 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:51:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085106.2FC86BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Wed, 20 Aug 2025 08:51:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (147834 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:51:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085106.2A09EBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Wed, 20 Aug 2025 08:51:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (157999 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:51:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085106.241CABC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Wed, 20 Aug 2025 08:51:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (144083 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:51:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085106.1DE49BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Wed, 20 Aug 2025 08:50:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (139958 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:50:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085015.4A4E1BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Wed, 20 Aug 2025 08:50:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (128285 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:50:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085015.4799BBC926</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Wed, 20 Aug 2025 08:50:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (129278 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:50:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085015.471C4BC91F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Wed, 20 Aug 2025 08:50:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (140597 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:50:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820085015.41039BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Wed, 20 Aug 2025 08:49:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (160491 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:49:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084915.06AEEBC72A</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Wed, 20 Aug 2025 08:49:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (163860 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:49:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084915.04F77BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Wed, 20 Aug 2025 08:49:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (171562 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:49:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084914.F25BCBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Wed, 20 Aug 2025 08:49:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (152845 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:49:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084914.F05B8BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Wed, 20 Aug 2025 08:48:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (165024 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:48:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084806.65D9DBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Wed, 20 Aug 2025 08:48:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (168179 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:48:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084806.5B187BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Wed, 20 Aug 2025 08:48:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (164507 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:48:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084806.584F1BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Wed, 20 Aug 2025 08:48:06 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (165047 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:48:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084806.55658BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Wed, 20 Aug 2025 08:47:02 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (206791 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:47:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084702.230DFBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Wed, 20 Aug 2025 08:47:02 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (160387 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:47:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084702.1982FBC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Wed, 20 Aug 2025 08:47:02 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (155509 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:47:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084702.0DB16BC72A</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Wed, 20 Aug 2025 08:47:02 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (158390 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:47:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084702.0CC96BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Wed, 20 Aug 2025 08:47:01 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
+
+Python exception: IOError.
+
+Command output:
+
+	S2025-08... (155153 bytes) ...8.json'
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:47:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820084701.E8A30BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Wed, 20 Aug 2025 08:30:10 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2122 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Wed, 20 Aug 2025 08:30:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250820083010.486E7BC72F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt</title><description>At Wed, 20 Aug 2025 01:22:36 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt
 
@@ -7082,257 +7337,4 @@ Python exception: IOError.
 Command output:
 
 	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:51:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085139.71783BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Sun, 20 Jul 2025 08:51:39 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:51:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085139.6A695BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Sun, 20 Jul 2025 08:51:39 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:51:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085139.64485BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Sun, 20 Jul 2025 08:50:39 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:50:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085039.5758EBC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Sun, 20 Jul 2025 08:50:39 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:50:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085039.37AAEBC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Sun, 20 Jul 2025 08:50:39 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:50:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085039.11D2DBC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Sun, 20 Jul 2025 08:50:39 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:50:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085039.05A07BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Sun, 20 Jul 2025 08:50:38 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:50:38 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085038.E9D08BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Sun, 20 Jul 2025 08:49:48 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:49:48 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084948.0CF6ABC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Sun, 20 Jul 2025 08:49:48 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:49:48 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084948.0B893BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Sun, 20 Jul 2025 08:49:48 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:49:48 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084948.07CB5BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Sun, 20 Jul 2025 08:49:48 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:49:48 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084948.050D6BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Sun, 20 Jul 2025 08:48:40 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:48:40 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084840.43632BC72A</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Sun, 20 Jul 2025 08:48:40 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:48:40 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084840.41E74BC91F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Sun, 20 Jul 2025 08:48:40 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:48:40 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084840.2F7D2BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Sun, 20 Jul 2025 08:48:40 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:48:40 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084840.15020BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Sun, 20 Jul 2025 08:47:36 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:47:36 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084736.EEBAEBC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Sun, 20 Jul 2025 08:47:36 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:47:36 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084736.9A23BBC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Sun, 20 Jul 2025 08:47:36 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:47:36 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084736.77438BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Sun, 20 Jul 2025 08:47:36 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:47:36 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084736.60EF6BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Sun, 20 Jul 2025 08:46:38 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:46:38 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084638.174F6BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Sun, 20 Jul 2025 08:46:38 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:46:38 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084638.13B45BC72A</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Sun, 20 Jul 2025 08:46:38 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:46:38 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084638.121E8BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Sun, 20 Jul 2025 08:46:38 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:46:38 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084638.0779ABC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Sun, 20 Jul 2025 08:45:50 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:45:50 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084550.9F5E3BC91F</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Sun, 20 Jul 2025 08:45:50 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
-
-Python exception: IOError.
-
-Command output:
-
-	S2025-07... (54865 bytes) ...8.json'
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:45:50 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720084550.9A545BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Sun, 20 Jul 2025 08:30:12 +0000 (UTC), Cron ran:
-
-	/home/hatnote/weeklypedia/static/repo_update.sh
-
-Command output:
-
-	Already ... (2120 bytes) ... master
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:30:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720083012.69908BC765</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Sun, 20 Jul 2025 02:00:10 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
-
-Command output:
-
-	S2025-07... (10579 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 02:00:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720020010.BB3F2BC758</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Sun, 20 Jul 2025 01:50:19 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Command output:
-
-	S2025-07... (9711 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 01:50:19 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720015019.3791ABC758</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Sun, 20 Jul 2025 01:50:10 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Command output:
-
-	S2025-07... (9710 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 01:50:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720015010.54537BC758</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Sun, 20 Jul 2025 08:51:39 +0000 (UTC)</pubDate><guid>http://hatnote.com/20250720085139.71783BC765</guid></item></channel></rss>
