@@ -1,5 +1,217 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Tue, 17 Mar 2026 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Tue, 17 Mar 2026 02:46:30 +0000 (UTC), Cron ran:
+<rss version="2.0"><channel><title>Cronfed on wenli</title><description>Fresh cron output from cronfed</description><link>http://hatnote.com</link><ttl>30</ttl><generator>cronfed v1.0</generator><lastBuildDate>Wed, 18 Mar 2026 08:30:02 +0000</lastBuildDate><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN $FETCH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt</title><description>At Wed, 18 Mar 2026 08:01:06 +0000 (UTC), Cron ran:
+
+	$PYTHON_BIN $FETCH_SCRIPT --lang en 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/en.txt
+
+Python exception: urllib2.HTTPError.
+
+Command output:
+
+	Tracebac... (1587 bytes) ...R ERROR
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 08:01:06 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318080106.4855DBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt</title><description>At Wed, 18 Mar 2026 02:52:32 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang hu --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/hu.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:52:32 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025232.5AA49BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt</title><description>At Wed, 18 Mar 2026 02:52:00 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang or --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/or.txt
+
+Command output:
+
+	S2026-03... (11844 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:52:00 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025200.B2797BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt</title><description>At Wed, 18 Mar 2026 02:51:58 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ar --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ar.txt
+
+Command output:
+
+	S2026-03... (11843 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:51:58 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025158.343BBBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang gl --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gl.txt</title><description>At Wed, 18 Mar 2026 02:51:54 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang gl --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gl.txt
+
+Command output:
+
+	S2026-03... (11844 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:51:54 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025154.766F0BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Wed, 18 Mar 2026 02:51:38 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
+
+Command output:
+
+	S2026-03... (11845 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:51:38 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025138.051E0BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt</title><description>At Wed, 18 Mar 2026 02:51:17 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fi --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fi.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:51:17 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025117.4A894BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Wed, 18 Mar 2026 02:50:51 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
+
+Command output:
+
+	S2026-03... (11843 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:50:51 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025051.2CB11BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Wed, 18 Mar 2026 02:50:33 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
+
+Command output:
+
+	S2026-03... (11846 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:50:33 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025033.23A60BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Wed, 18 Mar 2026 02:50:28 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:50:28 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025028.7BF2ABC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Wed, 18 Mar 2026 02:50:21 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:50:21 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025021.0845ABC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Wed, 18 Mar 2026 02:50:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:50:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318025014.D10C9BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Wed, 18 Mar 2026 02:49:47 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:49:47 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024947.409F0BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Wed, 18 Mar 2026 02:49:40 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:49:40 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024940.726ADBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Wed, 18 Mar 2026 02:49:14 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:49:14 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024914.62D39BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Wed, 18 Mar 2026 02:48:35 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:48:35 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024835.1BF70BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Wed, 18 Mar 2026 02:48:31 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:48:31 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024831.A36DBBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Wed, 18 Mar 2026 02:48:23 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:48:23 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024823.AB24ABC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Wed, 18 Mar 2026 02:48:21 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
+
+Command output:
+
+	S2026-03... (11844 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:48:21 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024821.4115BBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Wed, 18 Mar 2026 02:48:15 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:48:15 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024815.E75DEBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Wed, 18 Mar 2026 02:47:37 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:47:37 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024737.B1567BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Wed, 18 Mar 2026 02:47:23 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:47:23 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024723.38EA5BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Wed, 18 Mar 2026 02:47:10 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:47:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024710.7B99DBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Wed, 18 Mar 2026 02:46:31 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:46:31 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024631.3D8A2BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt</title><description>At Wed, 18 Mar 2026 02:46:12 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang de --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/de.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:46:12 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024612.AB068BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt</title><description>At Wed, 18 Mar 2026 02:46:10 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fr --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fr.txt
+
+Command output:
+
+	S2026-03... (11840 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:46:10 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024610.8269EBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt</title><description>At Wed, 18 Mar 2026 02:45:42 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ko --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ko.txt
+
+Command output:
+
+	S2026-03... (11841 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:45:42 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024542.6B518BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt</title><description>At Wed, 18 Mar 2026 02:45:13 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang en --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/en.txt
+
+Command output:
+
+	S2026-03... (11906 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:45:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318024513.D0A6BBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt</title><description>At Wed, 18 Mar 2026 02:31:13 +0000 (UTC), Cron ran:
+
+	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang sv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/sv.txt
+
+Command output:
+
+	S2026-03... (11465 bytes) ...updated
+</description><link>http://hatnote.com</link><pubDate>Wed, 18 Mar 2026 02:31:13 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260318023113.0CCA8BC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Tue, 17 Mar 2026 08:30:11 +0000 (UTC), Cron ran:
+
+	/home/hatnote/weeklypedia/static/repo_update.sh
+
+Command output:
+
+	Already ... (2121 bytes) ... master
+</description><link>http://hatnote.com</link><pubDate>Tue, 17 Mar 2026 08:30:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260317083011.B5EBBBC74D</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Tue, 17 Mar 2026 02:46:30 +0000 (UTC), Cron ran:
 
 	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
 
@@ -7955,260 +8167,4 @@ Python exception: IOError.
 Command output:
 
 	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 11:30:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215113002.71E49BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 11:15:01 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 11:15:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215111501.C258CBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 11:00:01 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 11:00:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215110001.E2B94BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 10:45:02 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 10:45:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215104502.3BB81BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 10:30:02 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 10:30:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215103002.8F787BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 10:15:01 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 10:15:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215101501.C25D8BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 10:00:01 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 10:00:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215100001.D3B0FBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 09:45:02 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 09:45:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215094502.26914BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 09:30:02 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 09:30:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215093002.72441BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 09:15:01 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 09:15:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215091501.DDC81BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 09:00:01 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 09:00:01 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215090001.ABA6BBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt</title><description>At Sun, 15 Feb 2026 08:45:02 +0000 (UTC), Cron ran:
-
-	$PYTHON_BIN -m cronfed --save 1024 --link http://hatnote.com --output $CRON_RSS_PATH $HATNOTE_MAIL_PATH 2&gt;&amp;1 | tee -a $LOG_BASE_PATH/cronfed.txt
-
-Python exception: IOError.
-
-Command output:
-
-	Tracebac... (977 bytes) ... device
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 08:45:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215084502.048F0BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; /home/hatnote/weeklypedia/static/repo_update.sh</title><description>At Sun, 15 Feb 2026 08:30:09 +0000 (UTC), Cron ran:
-
-	/home/hatnote/weeklypedia/static/repo_update.sh
-
-Command output:
-
-	Already ... (80 bytes) ...ex file
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 08:30:09 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215083009.36DFABC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt</title><description>At Sun, 15 Feb 2026 02:36:22 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang fa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/fa.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11600 bytes) ...225279)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:36:22 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023622.9A010BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt</title><description>At Sun, 15 Feb 2026 02:35:52 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang el --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/el.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11454 bytes) ...r 8187)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:35:52 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023552.A999DBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt</title><description>At Sun, 15 Feb 2026 02:35:31 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang pa --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/pa.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11455 bytes) ... 24246)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:35:31 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023531.B9616BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt</title><description>At Sun, 15 Feb 2026 02:35:30 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang te --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/te.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11439 bytes) ... 32767)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:35:30 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023531.003A6BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt</title><description>At Sun, 15 Feb 2026 02:35:20 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang bn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/gn.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11460 bytes) ... 24537)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:35:20 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023520.6F0DCBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt</title><description>At Sun, 15 Feb 2026 02:35:16 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang cs --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/cs.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11439 bytes) ...decoded
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:35:16 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023516.4CD31BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt</title><description>At Sun, 15 Feb 2026 02:35:05 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang lv --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/lv.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11459 bytes) ... 12023)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:35:05 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023505.55802BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt</title><description>At Sun, 15 Feb 2026 02:34:52 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang id --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/id.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11441 bytes) ...decoded
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:34:52 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023452.72B33BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt</title><description>At Sun, 15 Feb 2026 02:34:32 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ta --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ta.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11447 bytes) ... 24574)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:34:32 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023432.180A1BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt</title><description>At Sun, 15 Feb 2026 02:33:43 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ur --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ur.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11448 bytes) ... 16383)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:33:43 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023343.72EDDBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt</title><description>At Sun, 15 Feb 2026 02:33:31 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang kn --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/kn.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11449 bytes) ...147453)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:33:31 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023331.BF04CBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt</title><description>At Sun, 15 Feb 2026 02:33:27 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang zh --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/zh.txt
-
-Python exception: ValueError.
-
-Command output:
-
-	S2026-02... (11439 bytes) ... 12287)
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:33:27 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023327.2955BBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt</title><description>At Sun, 15 Feb 2026 02:33:20 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang no --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/no.txt
-
-Command output:
-
-	S2026-02... (11288 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:33:20 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023320.2230BBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt</title><description>At Sun, 15 Feb 2026 02:32:56 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang ca --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/ca.txt
-
-Command output:
-
-	S2026-02... (11291 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:32:56 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023256.ED4EBBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt</title><description>At Sun, 15 Feb 2026 02:32:34 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang da --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/da.txt
-
-Command output:
-
-	S2026-02... (11288 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:32:34 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023234.A059DBC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt</title><description>At Sun, 15 Feb 2026 02:32:21 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang it --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/it.txt
-
-Command output:
-
-	S2026-02... (11288 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:32:21 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023221.2D588BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt</title><description>At Sun, 15 Feb 2026 02:32:11 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang es --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/es.txt
-
-Command output:
-
-	S2026-02... (11287 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:32:11 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023211.29DE0BC764</guid></item><item><title>Cron: &lt;hatnote@wenli&gt; $TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt</title><description>At Sun, 15 Feb 2026 02:31:26 +0000 (UTC), Cron ran:
-
-	$TOP_PYTHON_BIN $TOP_PYTHON_SCRIPT --update --lang et --project wikipedia --poll $TOP_POLL_TIME --poll-interval $TOP_POLL_INTERVAL 2&gt;&amp;1 | tee -a $TOP_LOG_BASE_PATH/et.txt
-
-Command output:
-
-	S2026-02... (11288 bytes) ...updated
-</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 02:31:26 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215023126.01553BC764</guid></item></channel></rss>
+</description><link>http://hatnote.com</link><pubDate>Sun, 15 Feb 2026 11:30:02 +0000 (UTC)</pubDate><guid>http://hatnote.com/20260215113002.71E49BC764</guid></item></channel></rss>
